@@ -1277,7 +1277,7 @@ div.cm-s-mdn-like span.CodeMirror-matchingbracket {
   text-align: center;
   color: rgba(255, 255, 255, 0.75);
   background-color: #263748;
-  background-image: url("../../../assets/img/background_footer.svg");
+  background-image: url("../..//assets/img/background_footer.svg");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: 1420px;
@@ -1301,7 +1301,7 @@ div.cm-s-mdn-like span.CodeMirror-matchingbracket {
     -webkit-transform: translate(-50%, -50%);
             transform: translate(-50%, -50%); }
     .ac-footer .ac-footer-brand:hover .ac-icon-love-dark {
-      background: url("../../../assets/img/icon-heart-light.svg") no-repeat center center/contain; }
+      background: url("../..//assets/img/icon-heart-light.svg") no-repeat center center/contain; }
     .ac-footer .ac-footer-brand .ac-footer-brand-icon {
       width: 110px;
       margin-top: 20px; }
@@ -1423,7 +1423,7 @@ div.cm-s-mdn-like span.CodeMirror-matchingbracket {
     height: 30px;
     margin: auto; }
   .ac-footer .ac-icon-love-dark {
-    background: url("../../../assets/img/icon-heart-dark.svg") no-repeat center center/contain; }
+    background: url("../..//assets/img/icon-heart-dark.svg") no-repeat center center/contain; }
 
 /*! On small devices */
 @media (max-width: 960px) {
@@ -2747,8 +2747,8 @@ nav.sidebar {
   height: 52px;
   width: 52px;
   background: #39b1de;
-  background-image: url(../../../assets/img/open-doc-menu_icon.svg), -webkit-linear-gradient(left, #8f64f3 0%, #39b1de 90%);
-  background-image: url(../../../assets/img/open-doc-menu_icon.svg), linear-gradient(to right, #8f64f3 0%, #39b1de 90%);
+  background-image: url(../..//assets/img/open-doc-menu_icon.svg), -webkit-linear-gradient(left, #8f64f3 0%, #39b1de 90%);
+  background-image: url(../..//assets/img/open-doc-menu_icon.svg), linear-gradient(to right, #8f64f3 0%, #39b1de 90%);
   background-repeat: no-repeat;
   background-position: 65% center, center center;
   background-size: 60%, 100%;
@@ -2774,8 +2774,8 @@ nav.sidebar {
             transform: rotate(-180deg);
     -webkit-transform-origin: center center;
             transform-origin: center center;
-    background-image: url(../../../assets/img/open-doc-menu_icon.svg), -webkit-linear-gradient(right, #8f64f3 0%, #39b1de 90%);
-    background-image: url(../../../assets/img/open-doc-menu_icon.svg), linear-gradient(to left, #8f64f3 0%, #39b1de 90%);
+    background-image: url(../..//assets/img/open-doc-menu_icon.svg), -webkit-linear-gradient(right, #8f64f3 0%, #39b1de 90%);
+    background-image: url(../..//assets/img/open-doc-menu_icon.svg), linear-gradient(to left, #8f64f3 0%, #39b1de 90%);
     left: 340px; }
 
 .documentation-section .container article,
@@ -3600,8 +3600,8 @@ body.example .btn {
   color: #3a5395; }
 
 .hero-section {
-  background: url("../../../assets/img/react-atom.svg"), -webkit-linear-gradient(top left, #322f4c, #1c1b2f);
-  background: url("../../../assets/img/react-atom.svg"), linear-gradient(to bottom right, #322f4c, #1c1b2f);
+  background: url("../..//assets/img/react-atom.svg"), -webkit-linear-gradient(top left, #322f4c, #1c1b2f);
+  background: url("../..//assets/img/react-atom.svg"), linear-gradient(to bottom right, #322f4c, #1c1b2f);
   background-repeat: no-repeat, repeat;
   background-position: top center, top left;
   background-size: 800px, 100%;
