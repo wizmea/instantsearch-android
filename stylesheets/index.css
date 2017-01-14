@@ -1734,7 +1734,7 @@ body:not(.example) section {
     max-width: 400px;
     float: right; }
   .is-section__code-samples pre {
-    background: url("../images/lines-code.png") no-repeat center left 20%/102%;
+    background: url("../instantsearch-android/images/lines-code.png") no-repeat center left 20%/102%;
     color: #fff; }
     .is-section__code-samples pre code {
       position: relative;

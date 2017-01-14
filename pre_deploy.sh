@@ -8,5 +8,5 @@ echo "Finding $1 and replacing by $2..."
 rg -l "$1" . 2>&1 | xargs -I {} sed -i '' "s@$1@$2@" {} 
 }
 
-find_replace "https://community.algolia.com/instantsearch-android/stylesheets/" "https://community.algolia.com/instantsearch-android/stylesheets/"
+find_replace "stylesheets/" "https://community.algolia.com/instantsearch-android/stylesheets/"
 find_replace "../assets/" "/assets/"
